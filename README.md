@@ -37,5 +37,5 @@
 </div>
 
 <div align="center">
-<sub>🤖 Built & maintained with Claude</sub>
+<sub>🤖 Built & maintained with Claude / Codex</sub>
 </div>
